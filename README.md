@@ -6,11 +6,11 @@ Web Application to Manage Customer Information with Django and React
 * Django REST framework, a powerful and flexible toolkit for building REST APIs in Django.
 
 
-## React Server
+## Run React Server
 
-cd frontend
-npm start
+<code>cd frontend</code>
+<code>npm start</code>
 
-## Django Server
-cd webapp
-python manage.py runserver
+## Run Django Server
+<code>cd webapp</code>
+<code>python manage.py runserver</code>
